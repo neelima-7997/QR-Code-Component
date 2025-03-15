@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color:hsl(212,45%,83%);
+    
+}
+.container{
+    background-color: white;
+    width:180px;
+    height:270px;
+    display: block;
+    justify-content: center;
+    margin:auto auto;
+    margin-top: 100px;
+    border-radius: 7px;
+
+}
+.image{
+    padding:10px;
+   
+}
+.content h4{
+    margin-top:3px;
+    font-size: 10px;
+    text-align: center;
+    font-style: normal;
+    padding:0 3px;
+    font-weight: 600;
+    font-family:outfit ;
+    
+}
+.content h5{
+    font-size: 8px;
+    font-weight: lighter;
+    text-align: center;
+    font-family: lora;
+    
+    color:rgb(129, 148, 167);
+   
+}
+.image img{
+    border-radius: 5px;
+}
+.attribution{
+    margin-top: 10px;
+    font-size: 7px;
+    text-align: center;
+      
+}
+.attribution a{
+    color:blue;
+}
+
+    
